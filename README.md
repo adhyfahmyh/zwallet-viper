@@ -41,7 +41,7 @@ First, simply clone this repository using basic git command
 
 ### VIPER
 <p align="center">
-	<img src="https://koenig-media.raywenderlich.com/uploads/2020/02/viper.png" width="300"/>
+	<img src="https://koenig-media.raywenderlich.com/uploads/2020/02/viper.png" width="500"/>
 </p>
 1. View<br>
 	The responsibility of the view is to send the user actions to the presenter and shows whatever the presenter tells it<br>
