@@ -17,11 +17,13 @@ In this project, we use several technology to implemented in this app
 
 ## Screenshots
 
-These are some of the User Interface of MyMonee Application
+These are some of the User Interface of ZWallet Application
 
-[<img src="/Assets/Screen%20Shot%202021-06-01%20at%2006.23.03.png" width="250"/>](home)
-[<img src="/Assets/Screen%20Shot%202021-06-01%20at%2007.09.05.png" width="250"/>](dream)
-[<img src="/Assets/Screen%20Shot%202021-06-01%20at%2007.09.10.png" width="250"/>](profile)
+[<img src="/Assets/Login.png" width="250"/>](Login)
+[<img src="/Assets/Home.png" width="250"/>](Home)
+[<img src="/Assets/TopUp.png" width="250"/>](TopUp)
+[<img src="/Assets/TransferReceiver.png" width="250"/>](TransferReceiver)
+[<img src="/Assets/TransferDetail.png" width="250"/>](TransferDetail)
 
 ## How to Install
 1. Clone this repository <br />
