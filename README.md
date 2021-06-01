@@ -1,4 +1,6 @@
-# [<img align="center" src="/Assets/ZWalletLogo.png" width="500"/>](MyMonee)
+<p align="center">
+	<img src="/Assets/ZWalletLogo.png" width="500"/>
+</p>
 ## Awesome App For Saving Time.
 
 MyMonee is an electronic wallet application in which there are financial records. These financial records are your income and expenses, you can also see the balance of your own record. In this application, you can also make a wishlist of things or objective you want to achieve. You can know and see the progress of each of these wish.
