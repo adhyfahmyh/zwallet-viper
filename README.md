@@ -1,9 +1,19 @@
 <p align="center">
 	<img src="/Assets/ZWalletLogo.png" width="500"/>
 </p>
+
 ## Awesome App For Saving Time.
 
-MyMonee is an electronic wallet application in which there are financial records. These financial records are your income and expenses, you can also see the balance of your own record. In this application, you can also make a wishlist of things or objective you want to achieve. You can know and see the progress of each of these wish.
+ZWallet is an electronic wallet application designed to solve problems during banking or transactional activities, such as transfers and others. With this app any transaction to be as easy as the touch of a finger. you can enjoy a clean, faster, more practical, and safer payment method
+
+### Tech in Use
+In this project, we use several technology to implemented in this app
+1. VIPER Design Pattern
+2. Swift 5 
+3. NetFox
+4. Cocoapods
+5. KingFisher
+6. Moya
 
 ## Screenshots
 
