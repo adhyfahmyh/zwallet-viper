@@ -39,18 +39,29 @@ First, simply clone this repository using basic git command
 
 ## Usage
 
+- **View**<br>
+	This is for display the user interface that contain object that user can see and interact such as table or a button<br>
+
+- **Protocol**<br>
+	Protocol is a blueprint of methods, properties, and other requirements that suit a particular task or piece of functionality<br>
+
+### VIPER
 
 <p align="center">
-	<h3>VIPER</h3>
 	<img src="https://koenig-media.raywenderlich.com/uploads/2020/02/viper.png" width="500"/>
 </p>
-1. View<br>
+
+1. **View**<br>
 	The responsibility of the view is to send the user actions to the presenter and shows whatever the presenter tells it<br>
-2. Interactor<br>
+
+2. **Interactor**<br>
 	The Interactor is a class that mediates between the presenter and the data. It takes direction from the presenter<br>
-3. Presenter<br>
+
+3. **Presenter**<br>
 	Its responsibility is to get the data from the interactor on user actions and after getting data from the interactor, it sends it to the view to show it. It also asks the router/wireframe for navigation<br>
-4. Entity<br>
+
+4. **Entity**<br>
 	The Entity contains basic model objects used by the Interactor<br>
-5. Router<br>
+
+5. **Router**<br>
 	The Router handles navigation between screens/ It has all navigation logic for describing which screens are to be shown when
